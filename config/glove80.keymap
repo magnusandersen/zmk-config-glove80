@@ -125,12 +125,12 @@
 
         Symbol {
             bindings = <
-&trans  &trans  &trans  &trans  &trans                                                                  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+&trans           &trans            &trans                &trans                 &trans                                                                                                                     &trans                &trans                 &trans            &trans             &trans
+&trans           &kp LESS_THAN     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GREATER_THAN       &kp COMMA                                                                            &trans         &trans                &trans                 &trans            &trans             &trans
+&kp EXCLAMATION  &kp LEFT_BRACE    &kp DOUBLE_QUOTES     &kp SQT                &kp RIGHT_BRACE        &kp QUESTION                                                                         &kp SEMICOLON  &kp RSHFT             &kp RCTRL              &kp RALT          &kp RCMD           &trans
+&kp HASH         &kp CARET         &kp EQUAL             &kp UNDERSCORE         &kp COLON              &kp ASTERISK                                                                         &kp PERIOD     &kp BACKSPACE         &kp DELETE             &kp LS(TAB)       &kp ENTER          &trans
+&kp TILDE        &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &kp MINUS              &kp GRAVE              &kp SLASH     &kp BACKSLASH  &kp PERIOD   &kp PIPE       &trans  &trans      &trans  &kp SLASH      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PAGE_UP
+&kp DOLLAR       &kp AMPERSAND     &kp PLUS              &kp LEFT_PARENTHESIS   &kp RIGHT_PARENTHESIS                &kp ASTERISK   &kp AT_SIGN  &kp SEMICOLON  &trans  &kp DELETE  &trans                 &kp HOME              &kp END                &kp BACKSLASH     &trans             &kp PAGE_DOWN
             >;
         };
 
